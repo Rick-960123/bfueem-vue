@@ -1,6 +1,6 @@
-# monitor_project
+# bfueem-vue
 
-> A Vue.js project
+> 北京林业大学mvai实验室矿区沙尘检测平台
 
 ## Build Setup
 
